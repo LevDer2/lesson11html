@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+}
+ul {
+  list-style: none;
+}
+.I{
+  height: 50px;
+display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+  width: 100px;
+  border: 1px solid black;
+}
+  
+.PothBa{
+    height: 120px;
+display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+  width: 100px;
+  border: 1px solid black;
+}
